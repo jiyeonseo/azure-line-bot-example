@@ -28,6 +28,8 @@ const config = {
 serverless deploy
 ```
 
+![image](https://github.com/jiyeonseo/azure-line-bot-example/blob/master/screenshot-2.png)
+
 ## More details  
 - [Building a bot](https://developers.line.me/en/docs/messaging-api/building-bot/)
 - [line-bot-sdk-nodejs](https://github.com/line/line-bot-sdk-nodejs)

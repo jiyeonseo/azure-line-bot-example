@@ -3,6 +3,7 @@
 This is simple echo bot on Line messenger.  
 
 ## Before you begin
+- [Azure account](azure.microsoft.com/en-us/free/)
 - Line developer account
 - [A channel for Line Messaging API](https://developers.line.me/en/docs/messaging-api/getting-started/)
 
